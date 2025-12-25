@@ -9,7 +9,9 @@ SQL queries to solve them using industry-standard data analysis techniques.
 This project is part of my ongoing effort to:
 
 a) Strengthen my SQL skills
+
 b) Practice real-world data problem solving
+
 c) Build a public portfolio of analytics work
 
 ## About the Challenge
