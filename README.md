@@ -24,40 +24,63 @@ Learn more at [interviewmaster.ai/advent](https://www.interviewmaster.ai/advent)
 Each challenge includes:
 
 a) The original problem statement
+
 b) The database tables
+
 c) My SQL solution
+
 d) (In many cases) a short explanation of the approach
+
 
 Topics covered include:
 
 a) JOIN and LEFT JOIN
+
 b) GROUP BY and aggregations
+
 c) COUNT(DISTINCT)
-d) Window functions (NTILE, DENSE_RANK, MAX() OVER)
+
+d) Window functions (NTILE, DENSE_RANK, MAX() OVER()
+
 e) Date filtering
+
 f) Data ranking and segmentation
+
 g) Combining datasets with UNION
+
 
 ## Repository Structure
 
 📦 sql-advent-calendar
  ┣ 📂 day-01
+ 
  ┣ 📂 day-02
+ 
  ┣ 📂 day-03
+ 
  ┣ 📂 day-04
+ 
  ┣ 📂 day-05
+ 
  ┣ 📂 day-06
+ 
  ┣ 📂 day-07
+ 
  ┗ 📂 ...
+ 
 
 Each folder contains the SQL file (and sometimes notes) for that day’s challenge.
 
 
 ## Tools & Skills Demonstrated
 a) SQL (PostgreSQL / ANSI SQL style)
+
 b) Data analysis & problem decomposition
+
 c) Query optimization and readability
+
 d) Window functions and analytical SQL
+
 
 ## Credits
 This challenge was created by Interview Master, led by:
