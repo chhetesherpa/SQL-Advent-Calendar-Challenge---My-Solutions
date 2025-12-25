@@ -32,7 +32,7 @@ c) My SQL solution
 d) (In many cases) a short explanation of the approach
 
 
-Topics covered include:
+**Topics covered include**:
 
 a) JOIN and LEFT JOIN
 
